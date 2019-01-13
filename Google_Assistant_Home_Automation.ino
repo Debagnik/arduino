@@ -8,15 +8,15 @@
 #define Relay3            D3
 #define Relay4            D4
 
-#define WLAN_SSID       "DebagnikPCWifi"             // Your SSID
-#define WLAN_PASS       "Birth@1999"        // Your password
+#define WLAN_SSID       ""             // Your SSID
+#define WLAN_PASS       ""        // Your password
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com" //Adafruit Server
 #define AIO_SERVERPORT  1883                   
-#define AIO_USERNAME    "Debagnik"            // Username
-#define AIO_KEY         "b01505c206024045bdbe4f86c213fe10"   // Auth Key
+#define AIO_USERNAME    ""            // Username
+#define AIO_KEY         ""   // Auth Key
 
 //WIFI CLIENT
 WiFiClient client;
