@@ -1,9 +1,10 @@
-#arduino
-This is a arduino project
+#IOT and Robotics
 
-Aim: To Switch On/Off some appliances using an arduino code
+# 22/01/2019
+Home automation using bluetooth and a custom made app (App included)
 
-Materials required: a 5V dc usb wall adapter, male-female jumper wires, normal multi stranded wires, A 4 or 8 channel relay module, An android phone with bluetooth 4.0, a HC-05 Bluetooth Module.
+# 23/01/2019
+Home automation using NodeMCU and google assistant (train your assistant at IFTTT)
 
-Procedure:
-1> 
+# 24/01/2019
+Bluetooth controlled Car using custom made app (app included)
