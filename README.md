@@ -11,3 +11,6 @@ Bluetooth controlled Car using custom made app (app included)
 
 # 25/01/2019
 Sonar system using a Servo, an arduino & an HC-SR06 module range upto 40 cm
+
+# 26/07/2019
+The Peril Project prototype 1 (DTL) see licences for more info
